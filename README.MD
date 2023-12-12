@@ -40,7 +40,7 @@ dotnet run -- -s 100000 -d 1
 ### Console Output
 During execution, the application displays your earnings in real-time:
 ```
-You've earned: X💲 (Y₽)
+You've earned: 100💲 (9047₽)
 ```
 X is your real-time earning in USD, and Y is the converted amount in RUB.
 
