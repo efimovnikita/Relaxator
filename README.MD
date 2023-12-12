@@ -42,8 +42,6 @@ During execution, the application displays your earnings in real-time:
 ```
 You've earned: 100💲 (9047₽)
 ```
-X is your real-time earning in USD, and Y is the converted amount in RUB.
-
 To stop the application and see your total earnings, use:
 ```sh
 Ctrl+C
