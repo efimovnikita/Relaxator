@@ -13,8 +13,7 @@ Relaxator is a Console Application written in C# that calculates your earnings i
 The application uses the [AngleSharp](https://github.com/AngleSharp/AngleSharp) library to parse the web page for the current currency exchange rate.
 
 ## Installation
-Clone the repository to your local machine using.
-
+Clone the repository to your local machine.
 Make sure to restore the required packages:
 ```sh
 dotnet restore
